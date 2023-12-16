@@ -1,0 +1,51 @@
+.main {
+  background-color: white;
+}
+.data {
+  opacity: 0.8;
+}
+.table {
+  width: 50%;
+  padding: 1rem;
+  margin: auto;
+}
+
+.tableData {
+  width: 100%;
+  margin: auto;
+  border-spacing: 0 1rem;
+}
+
+.heading {
+  text-align: center;
+}
+.rankers {
+  padding: 0.4rem;
+  background-color: #ddd;
+}
+.button {
+  width: 20%;
+  display: flex;
+  align-items: center;
+  grid-area: 1rem;
+  margin: auto;
+}
+.btn {
+  display: flex;
+  gap: 0, 5rem;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: black;
+  cursor: pointer;
+}
+
+.btnOne {
+  border: none;
+  outline: none;
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+

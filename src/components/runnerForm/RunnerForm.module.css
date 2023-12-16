@@ -1,0 +1,76 @@
+.runnerContainer {
+  width: 16%;
+  height: 300px;
+  padding: 0.7rem;
+  margin: 1rem;
+  background-color: #d6d0cb;
+}
+
+.runnerHeading {
+  font-size: 1.2rem;
+  text-align: center;
+  margin-bottom: 0;
+}
+.runnerMainTag {
+  opacity: 0.6;
+  font-size: 0.5rem;
+  margin-top: 0;
+  margin-left: 1rem;
+}
+.runnerInput {
+  border: none;
+  outline: none;
+  padding: 10px;
+  margin-bottom: 1rem;
+}
+.runnerLabel {
+  font-size: 0.9rem;
+}
+.tableUsers {
+    height: 640px;
+}
+.addRunnerButton {
+  background-color: black;
+  color: white;
+  border: none;
+  outline: none;
+  font-size: 0.7rem;
+  padding: 10px;
+  border-radius: 4px;
+}
+.mainContainerList {
+  background-color: white;
+  padding: 1rem;
+  width: 100%;
+  margin-top: 1rem;
+}
+.heading {
+  font-size: 1.1rem;
+}
+.tableHeading {
+  width: 90%;
+  margin: auto;
+  border-spacing: 0 1rem;
+}
+.tableDataList {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+.userData {
+  background-color: #d6d0cb;
+}
+.table {
+  padding: 0.6rem;
+}
+.button {
+    width: 15%;
+    float: right;
+}
+.btn {
+    background-color: tomato;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 8px 15px;
+    cursor: pointer;
+}

@@ -1,0 +1,7 @@
+.mainContianer {
+  background-color: #eeeae7;
+  width: 90%;
+  padding: 1rem;
+  margin: auto;
+  display: flex;
+}
